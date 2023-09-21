@@ -1,0 +1,301 @@
+[
+  {
+    "name": "I Compartment",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "I Glass Compartment",
+    "ingredients": {
+      "glass": 2
+    }
+  },
+  {
+    "name": "L Compartment",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "L Glass Compartment",
+    "ingredients": {
+      "glass": 2
+    }
+  },
+  {
+    "name": "T Compartment",
+    "ingredients": {
+      "titanium": 3
+    }
+  },
+  {
+    "name": "X Compartment",
+    "ingredients": {
+      "titanium": 3
+    }
+  },
+  {
+    "name": "Foundation",
+    "ingredients": {
+      "titanium": 2,
+      "lead": 2
+    }
+  },
+  {
+    "name": "Hatch",
+    "ingredients": {
+      "titanium": 2,
+      "quartz": 1
+    }
+  },
+  {
+    "name": "Moonpool",
+    "ingredients": {
+      "titaniumIngot": 2,
+      "lubricant": 1,
+      "lead": 2
+    }
+  },
+  {
+    "name": "Multipurpose Room",
+    "ingredients": {
+      "titanium": 6
+    }
+  },
+  {
+    "name": "Observatory",
+    "ingredients": {
+      "titanium": 1,
+      "enameledGlass": 2
+    }
+  },
+  {
+    "name": "Reinforcement",
+    "ingredients": {
+      "titanium": 3,
+      "lithium": 1
+    }
+  },
+  {
+    "name": "Scanner Room",
+    "ingredients": {
+      "titanium": 5,
+      "copper": 2,
+      "gold": 1,
+      "tableCoralSample": 1
+    }
+  },
+  {
+    "name": "Vertical Connector",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Window",
+    "ingredients": {
+      "glass": 1
+    }
+  },
+  {
+    "name": "Solar Panel",
+    "ingredients": {
+      "titanium": 2,
+      "quartz": 2,
+      "copper": 1
+    }
+  },
+  {
+    "name": "Thermal Plant",
+    "ingredients": {
+      "titanium": 5,
+      "magnetite": 2,
+      "aerogel": 1
+    }
+  },
+  {
+    "name": "Power Transmitter",
+    "ingredients": {
+      "titanium": 1,
+      "gold": 1
+    }
+  },
+  {
+    "name": "Floodlight",
+    "ingredients": {
+      "titanium": 1,
+      "glass": 1
+    }
+  },
+  {
+    "name": "Spotlight",
+    "ingredients": {
+      "titanium": 2,
+      "glass": 1
+    }
+  },
+  {
+    "name": "Exterior Growbed",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Base Attached Air Pump",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Fabricator",
+    "ingredients": {
+      "titanium": 1,
+      "gold": 1,
+      "tableCoralSample": 1
+    }
+  },
+  {
+    "name": "Radio",
+    "ingredients": {
+      "titanium": 1,
+      "copper": 1
+    }
+  },
+  {
+    "name": "Medical Kit Fabricator",
+    "ingredients": {
+      "titanium": 1,
+      "silver": 1,
+      "fiberMesh": 1,
+      "computerChip": 1
+    }
+  },
+  {
+    "name": "Wall Locker",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Locker",
+    "ingredients": {
+      "titanium": 2,
+      "quartz": 1
+    }
+  },
+  {
+    "name": "Battery Charger",
+    "ingredients": {
+      "titanium": 1,
+      "copperWire": 1,
+      "wiringKit": 1
+    }
+  },
+  {
+    "name": "Power Cell Charger",
+    "ingredients": {
+      "titanium": 2,
+      "ruby": 2,
+      "advancedWiringKit": 1
+    }
+  },
+  {
+    "name": "Aquarium",
+    "ingredients": {
+      "titanium": 1,
+      "glass": 2
+    }
+  },
+  {
+    "name": "Modification Station",
+    "ingredients": {
+      "titanium": 1,
+      "lead": 1,
+      "diamond": 1,
+      "computerChip": 1
+    }
+  },
+  {
+    "name": "Basic Plant Pot",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Composite Plant Pot",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Chic Plant Pot",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Interior Growbed",
+    "ingredients": {
+      "titanium": 4
+    }
+  },
+  {
+    "name": "Plant Shelf",
+    "ingredients": {
+      "titanium": 1
+    }
+  },
+  {
+    "name": "Ladder",
+    "ingredients": {
+      "titanium": 2
+    }
+  },
+  {
+    "name": "Water Filtration Machine",
+    "ingredients": {
+      "titanium": 3,
+      "copperWire": 1,
+      "aerogel": 1
+    }
+  },
+  {
+    "name": "Bulkhead",
+    "ingredients": {
+      "titanium": 3,
+      "siliconeRubber": 1
+    }
+  },
+  {
+    "name": "Vehicle Upgrade Console",
+    "ingredients": {
+      "titanium": 3,
+      "copperWire": 1,
+      "computerChip": 1
+    }
+  },
+  {
+    "name": "Bioreactor",
+    "ingredients": {
+      "titanium": 3,
+      "wiringKit": 1,
+      "lubricant": 1
+    }
+  },
+  {
+    "name": "Nuclear Reactor",
+    "ingredients": {
+      "lead": 3,
+      "plasteelIngot": 1,
+      "advancedWiringKit": 1
+    }
+  },
+  {
+    "name": "Alien Containment",
+    "ingredients": {
+      "titanium": 2,
+      "glass": 5
+    }
+  }
+]
